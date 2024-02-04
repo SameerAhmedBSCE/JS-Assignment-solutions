@@ -1,7 +1,6 @@
 # JS-Assignment-solutions
 // Java script assignment 1
 //Submitted by Sameer Ahmed
-var error= ""
 
 //Quetion # 01
 alert("Welcome to Our Website");
